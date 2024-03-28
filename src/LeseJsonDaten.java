@@ -64,9 +64,6 @@ public class LeseJsonDaten {
 		String wert = json.optString("nummer"); // -> "1"
 		System.out.println("Wert von nummer: " + wert);	
 		
-		
-		
-		
 		try
 		{
 			// JSON-Datei einlesen
